@@ -1,0 +1,128 @@
+.sl-product-card {
+  width: 220px;
+  padding: 15px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  transition: 0.3s;
+  display: flex;
+  flex-direction: column;
+}
+
+.sl-product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.sl-product-img-wrap {
+  position: relative;
+  width: 100%;
+}
+
+.sl-product-image {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  display: block;
+}
+
+.wishlist-btn {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background: white;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+  transition: transform 0.2s ease;
+}
+
+.wishlist-btn:hover {
+  transform: scale(1.15);
+}
+
+.sl-product-name {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-top: 12px;
+  color: #222;
+  line-height: 1.4;
+  flex: 1;
+}
+
+.sl-product-brand {
+  font-size: 0.82rem;
+  color: #888;
+  margin-top: 4px;
+}
+
+.sl-product-price {
+  font-size: 1.05rem;
+  color: #c9184a;
+  margin: 8px 0 10px;
+  font-weight: 600;
+}
+
+.sl-product-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 4px;
+}
+
+.cart-btn {
+  background: #d63384;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: "Poppins", sans-serif;
+  transition: background 0.2s ease;
+  width: 100%;
+}
+
+.cart-btn:hover {
+  background: #a4133c;
+}
+
+.qty-box {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  background: #ffeef2;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.qty-box button {
+  flex: 1;
+  padding: 8px 0;
+  background: #ffd0dd;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  color: #a4133c;
+  font-weight: 600;
+}
+
+.qty-box button:hover {
+  background: #ffb3c1;
+}
+
+.qty-box span {
+  flex: 1;
+  text-align: center;
+  font-weight: 600;
+  color: #a4133c;
+  font-size: 0.95rem;
+}

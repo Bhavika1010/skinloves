@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "brand": "COSRX",
+    "name": "COSRX Low pH Good Morning Cleanser",
+    "quantity": "150 ml",
+    "price": 415,
+    "category": "water-cleanser",
+    "image": "https://www.cosrx.com/cdn/shop/products/low-ph-good-morning-gel-cleanser-150ml_800x800.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Simple",
+    "name": "Simple Refreshing Facial Wash",
+    "quantity": "150 ml",
+    "price": 375,
+    "category": "water-cleanser",
+    "image": "https://m.media-amazon.com/images/I/41TxT3D+8nL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Neutrogena",
+    "name": "Neutrogena Hydrating Facial Cleanser",
+    "quantity": "145 ml",
+    "price": 1145,
+    "category": "water-cleanser",
+    "image": "https://m.media-amazon.com/images/I/613yGE-OABL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "The Face Shop",
+    "name": "Rice Water Bright Korean Cleanser",
+    "quantity": "150 ml",
+    "price": 764,
+    "category": "water-cleanser",
+    "image": "https://m.media-amazon.com/images/I/51Ri3I3VHCL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Gel",
+    "quantity": "50 g",
+    "price": 950,
+    "category": "moisturizer",
+    "image": "https://m.media-amazon.com/images/I/71-KajpKEKL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "CeraVe",
+    "name": "Moisturizing Cream",
+    "quantity": "50 g",
+    "price": 399,
+    "category": "moisturizer",
+    "image": "https://m.media-amazon.com/images/I/51Ei3IDQF6L._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Minimalist",
+    "name": "Ceramide 0.3% + Bisabolol Moisturizer",
+    "quantity": "50 g",
+    "price": 299,
+    "category": "moisturizer",
+    "image": "https://m.media-amazon.com/images/I/51L-QRpT2DL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Plum",
+    "name": "Green Tea Oil-Free Moisturizer",
+    "quantity": "50 ml",
+    "price": 450,
+    "category": "moisturizer",
+    "image": "https://m.media-amazon.com/images/I/41wVUjqm2yL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Laneige",
+    "name": "Cream Skin Toner",
+    "quantity": "150 ml",
+    "price": 1200,
+    "category": "toner",
+    "image": "https://m.media-amazon.com/images/I/41P7WIHF0YL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Klairs",
+    "name": "Supple Preparation Toner",
+    "quantity": "180 ml",
+    "price": 1450,
+    "category": "toner",
+    "image": "https://m.media-amazon.com/images/I/41vy5K0KDBL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 11,
+    "brand": "Isntree",
+    "name": "Green Tea Fresh Toner",
+    "quantity": "200 ml",
+    "price": 980,
+    "category": "toner",
+    "image": "https://m.media-amazon.com/images/I/41H7RcJhFRL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 12,
+    "brand": "Etude House",
+    "name": "SoonJung pH 5.5 Relief Toner",
+    "quantity": "180 ml",
+    "price": 1150,
+    "category": "toner",
+    "image": "https://m.media-amazon.com/images/I/41RVVoFR5gL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 13,
+    "brand": "Laneige",
+    "name": "Water Bank Hydro Essence",
+    "quantity": "70 ml",
+    "price": 2100,
+    "category": "essence",
+    "image": "https://m.media-amazon.com/images/I/41H3XRpO10L._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 14,
+    "brand": "COSRX",
+    "name": "Advanced Snail 96 Mucin Essence",
+    "quantity": "100 ml",
+    "price": 1250,
+    "category": "essence",
+    "image": "https://m.media-amazon.com/images/I/41o1WG6NBQL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 15,
+    "brand": "Missha",
+    "name": "Time Revolution First Treatment Essence",
+    "quantity": "150 ml",
+    "price": 2900,
+    "category": "essence",
+    "image": "https://m.media-amazon.com/images/I/41I3tcPNaRL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 16,
+    "brand": "Purito",
+    "name": "Galacto Niacin 97 Power Essence",
+    "quantity": "50 ml",
+    "price": 1150,
+    "category": "essence",
+    "image": "https://m.media-amazon.com/images/I/411mJwnq4jL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 17,
+    "brand": "COSRX",
+    "name": "Propolis Light Ampoule",
+    "quantity": "30 ml",
+    "price": 1250,
+    "category": "ampoule",
+    "image": "https://m.media-amazon.com/images/I/41AYs6ELqCL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 18,
+    "brand": "Mizon",
+    "name": "Snail Repair Intensive Ampoule",
+    "quantity": "30 ml",
+    "price": 850,
+    "category": "ampoule",
+    "image": "https://m.media-amazon.com/images/I/41QnBj5QBCL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 19,
+    "brand": "Some By Mi",
+    "name": "30 Days Miracle Ampoule",
+    "quantity": "80 ml",
+    "price": 1499,
+    "category": "ampoule",
+    "image": "https://m.media-amazon.com/images/I/41-RV9yvBLL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 20,
+    "brand": "The Plant Base",
+    "name": "Waterfall Moist Balanced Hyaluronic Ampoule",
+    "quantity": "50 ml",
+    "price": 1350,
+    "category": "ampoule",
+    "image": "https://m.media-amazon.com/images/I/415z-THNNQL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 21,
+    "brand": "Fixderma",
+    "name": "Shadow SPF 50+",
+    "quantity": "75 g",
+    "price": 550,
+    "category": "sunscreen",
+    "image": "https://m.media-amazon.com/images/I/41OYgNJgHgL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 22,
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Sunscreen SPF 60",
+    "quantity": "50 ml",
+    "price": 1999,
+    "category": "sunscreen",
+    "image": "https://m.media-amazon.com/images/I/51VBNwFsjQL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 23,
+    "brand": "Be Minimalist",
+    "name": "SPF 50 Multi Vitamin Sunscreen",
+    "quantity": "50 g",
+    "price": 499,
+    "category": "sunscreen",
+    "image": "https://m.media-amazon.com/images/I/41+S2tPvpJL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 24,
+    "brand": "Biore",
+    "name": "UV Aqua Rich Watery Essence SPF 50+",
+    "quantity": "50 g",
+    "price": 790,
+    "category": "sunscreen",
+    "image": "https://m.media-amazon.com/images/I/41tZ-lh3v+L._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 25,
+    "brand": "Laneige",
+    "name": "Lip Sleeping Mask Berry",
+    "quantity": "20 g",
+    "price": 690,
+    "category": "lipbalm",
+    "image": "https://m.media-amazon.com/images/I/41tT2NFBETL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 26,
+    "brand": "Vaseline",
+    "name": "Rosy Lips Lip Balm",
+    "quantity": "10 g",
+    "price": 99,
+    "category": "lipbalm",
+    "image": "https://m.media-amazon.com/images/I/51rvdCXJ3BL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 27,
+    "brand": "Dot & Key",
+    "name": "Vitamin C Lip Plumping Balm",
+    "quantity": "12 g",
+    "price": 249,
+    "category": "lipbalm",
+    "image": "https://m.media-amazon.com/images/I/41J96TFNrQL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 28,
+    "brand": "Mamaearth",
+    "name": "Cherry Tinted Lip Balm",
+    "quantity": "5 g",
+    "price": 199,
+    "category": "lipbalm",
+    "image": "https://m.media-amazon.com/images/I/51l6ixhvvVL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 29,
+    "brand": "Hada Labo",
+    "name": "Gokujyun Cleansing Oil",
+    "quantity": "200 ml",
+    "price": 850,
+    "category": "oilcleanser",
+    "image": "https://m.media-amazon.com/images/I/41xkT9HiEEL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 30,
+    "brand": "Kose",
+    "name": "Softymo Speedy Cleansing Oil",
+    "quantity": "230 ml",
+    "price": 899,
+    "category": "oilcleanser",
+    "image": "https://m.media-amazon.com/images/I/41a2q5RAbAL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 31,
+    "brand": "DHC",
+    "name": "Deep Cleansing Oil",
+    "quantity": "70 ml",
+    "price": 650,
+    "category": "oilcleanser",
+    "image": "https://m.media-amazon.com/images/I/41U7jZqFWzL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 32,
+    "brand": "The Face Shop",
+    "name": "Rice Water Bright Cleansing Oil",
+    "quantity": "150 ml",
+    "price": 1390,
+    "category": "oilcleanser",
+    "image": "https://m.media-amazon.com/images/I/41WoFIGFvwL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 37,
+    "brand": "Paula's Choice",
+    "name": "2% BHA Liquid Exfoliant",
+    "quantity": "118 ml",
+    "price": 2790,
+    "category": "exfoliator",
+    "image": "https://m.media-amazon.com/images/I/41cPLqDqjOL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 38,
+    "brand": "The Ordinary",
+    "name": "AHA 30% + BHA 2% Peeling Solution",
+    "quantity": "30 ml",
+    "price": 850,
+    "category": "exfoliator",
+    "image": "https://m.media-amazon.com/images/I/41NMHTr3jGL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 39,
+    "brand": "Minimalist",
+    "name": "AHA PHA BHA 32% Exfoliant",
+    "quantity": "30 ml",
+    "price": 699,
+    "category": "exfoliator",
+    "image": "https://m.media-amazon.com/images/I/41RUJyX6jCL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 40,
+    "brand": "COSRX",
+    "name": "BHA Blackhead Power Liquid",
+    "quantity": "100 ml",
+    "price": 1499,
+    "category": "exfoliator",
+    "image": "https://m.media-amazon.com/images/I/41JnPWaKY3L._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 41,
+    "brand": "L'Oreal",
+    "name": "1.5% Hyaluronic Acid Serum",
+    "quantity": "30 ml",
+    "price": 649,
+    "category": "serum",
+    "image": "https://m.media-amazon.com/images/I/51h4bkOxWoL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 42,
+    "brand": "Minimalist",
+    "name": "Vitamin C 10% Serum",
+    "quantity": "30 ml",
+    "price": 549,
+    "category": "serum",
+    "image": "https://m.media-amazon.com/images/I/41r5q6i3TkL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 43,
+    "brand": "The Ordinary",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "quantity": "30 ml",
+    "price": 650,
+    "category": "serum",
+    "image": "https://m.media-amazon.com/images/I/41M8LmZ5JYL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 44,
+    "brand": "Dot & Key",
+    "name": "10% Niacinamide Spot Correcting Serum",
+    "quantity": "30 ml",
+    "price": 499,
+    "category": "serum",
+    "image": "https://m.media-amazon.com/images/I/41dPv1c0e5L._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 45,
+    "brand": "The Face Shop",
+    "name": "Real Nature Aloe Sheet Mask",
+    "quantity": "1 sheet",
+    "price": 100,
+    "category": "sheetmask",
+    "image": "https://m.media-amazon.com/images/I/41OjT9QMXZL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 46,
+    "brand": "Mediheal",
+    "name": "N.M.F Aquaring Hydrating Mask",
+    "quantity": "1 sheet",
+    "price": 150,
+    "category": "sheetmask",
+    "image": "https://m.media-amazon.com/images/I/41Fh1u8d6YL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 47,
+    "brand": "Garnier",
+    "name": "Vitamin C Serum Mask",
+    "quantity": "1 sheet",
+    "price": 99,
+    "category": "sheetmask",
+    "image": "https://m.media-amazon.com/images/I/41EOQHQ9vQL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 48,
+    "brand": "Innisfree",
+    "name": "My Real Squeeze Mask Green Tea",
+    "quantity": "1 sheet",
+    "price": 120,
+    "category": "sheetmask",
+    "image": "https://m.media-amazon.com/images/I/41fPiuqj5hL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 49,
+    "brand": "Dot & Key",
+    "name": "Vitamin C Eye Cream",
+    "quantity": "30 ml",
+    "price": 275,
+    "category": "eyecream",
+    "image": "https://m.media-amazon.com/images/I/41KSPq0LuLL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 50,
+    "brand": "Mamaearth",
+    "name": "Under Eye Cream",
+    "quantity": "30 ml",
+    "price": 299,
+    "category": "eyecream",
+    "image": "https://m.media-amazon.com/images/I/41GjMzSWuGL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 51,
+    "brand": "The Ordinary",
+    "name": "Caffeine Solution 5% + EGCG",
+    "quantity": "30 ml",
+    "price": 700,
+    "category": "eyecream",
+    "image": "https://m.media-amazon.com/images/I/31zEF3YVKZL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 52,
+    "brand": "Pilgrim",
+    "name": "Red Vine Under Eye Cream",
+    "quantity": "30 ml",
+    "price": 350,
+    "category": "eyecream",
+    "image": "https://m.media-amazon.com/images/I/41y50dV1bpL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 53,
+    "brand": "Laneige",
+    "name": "Water Sleeping Mask",
+    "quantity": "70 ml",
+    "price": 1790,
+    "category": "sleepmask",
+    "image": "https://m.media-amazon.com/images/I/41LJdLbOtfL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 54,
+    "brand": "Etude House",
+    "name": "Moistfull Collagen Sleeping Pack",
+    "quantity": "100 ml",
+    "price": 850,
+    "category": "sleepmask",
+    "image": "https://m.media-amazon.com/images/I/51B1PLyNNML._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 55,
+    "brand": "Innisfree",
+    "name": "Green Tea Sleeping Mask",
+    "quantity": "80 ml",
+    "price": 950,
+    "category": "sleepmask",
+    "image": "https://m.media-amazon.com/images/I/41VIK5GKMDL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "id": 56,
+    "brand": "Dot & Key",
+    "name": "Vitamin C Sleeping Mask",
+    "quantity": "60 ml",
+    "price": 575,
+    "category": "sleepmask",
+    "image": "https://m.media-amazon.com/images/I/41v7BQqFHLL._SX300_SY300_QL70_FMwebp_.jpg"
+  }
+]

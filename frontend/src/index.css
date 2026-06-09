@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", system-ui, sans-serif;
+  color: #333;
+  line-height: 1.5;
+  padding-top: 120px;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  color: #d63384;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #b02a6b;
+}
+
+h1,
+h2,
+h3 {
+  color: #222;
+  font-weight: 600;
+}
+
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.sl-product-grid {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 40px;
+}

@@ -1,0 +1,39 @@
+.category-page {
+  padding: 40px 20px;
+  background: white;
+  min-height: 100vh;
+}
+
+.category-title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #c2185b;
+  margin-bottom: 10px;
+}
+
+.category-status {
+  text-align: center;
+  font-size: 1rem;
+  color: #555;
+  padding: 40px 0;
+}
+
+.category-status.error {
+  color: #c0392b;
+}
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+  padding: 30px 20px;
+}
+
+.cart-message {
+  text-align: center;
+  color: #27ae60;
+  font-size: 0.95rem;
+  margin-bottom: 10px;
+}

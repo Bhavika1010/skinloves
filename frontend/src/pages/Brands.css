@@ -1,0 +1,122 @@
+.brands-page {
+  padding: 40px 20px;
+  background: #fff;
+  min-height: 100vh;
+}
+
+.brand-search-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.brand-search-input {
+  width: 60%;
+  max-width: 450px;
+  padding: 12px 18px;
+  border-radius: 30px;
+  border: 2px solid #f7cad0;
+  background: #fff;
+  font-size: 1rem;
+  font-family: "Poppins", sans-serif;
+  transition: 0.3s ease;
+}
+
+.brand-search-input:focus {
+  border-color: #ff85a1;
+  box-shadow: 0 0 8px rgba(255, 133, 161, 0.4);
+  outline: none;
+}
+
+.brands-layout {
+  display: flex;
+  gap: 40px;
+}
+
+.brand-list {
+  width: 80%;
+}
+
+.brand-group {
+  margin-bottom: 35px;
+}
+
+.brand-letter {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ff5c8a;
+  margin-bottom: 5px;
+}
+
+.letter-line {
+  width: 50px;
+  height: 3px;
+  background: #ffb3c1;
+  margin-bottom: 15px;
+}
+
+.brand-name {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: 0.2s ease;
+  color: #333;
+}
+
+.brand-name:hover {
+  color: #ff477e;
+  transform: translateX(4px);
+}
+
+.no-brands {
+  color: #888;
+  font-size: 1rem;
+  padding: 20px 0;
+}
+
+.alphabet-sidebar {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-top: 10px;
+  position: sticky;
+  top: 130px;
+  align-self: flex-start;
+}
+
+.alphabet-item {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #ff85a1;
+  transition: 0.2s ease;
+  text-decoration: none;
+}
+
+.alphabet-item:hover {
+  color: #ff477e;
+  transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .brands-layout {
+    flex-direction: column;
+  }
+
+  .brand-list {
+    width: 100%;
+  }
+
+  .alphabet-sidebar {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    width: 100%;
+    position: static;
+  }
+
+  .brand-search-input {
+    width: 90%;
+  }
+}

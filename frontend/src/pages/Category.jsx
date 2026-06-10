@@ -3,8 +3,6 @@ import { useParams } from "react-router-dom";
 import "./Category.css";
 import ProductCard from "../components/ProductCard";
 
-const API = "http://localhost:5000";
-
 export default function Category() {
   const { name } = useParams();
   const [products, setProducts] = useState([]);
@@ -14,7 +12,7 @@ export default function Category() {
   useEffect(() => {
     setLoading(true);
     setError(null);
-    fetch(`${API}/api/products`)
+    fetch("/data/products.json")
       .then((res) => {
         if (!res.ok) throw new Error("Failed to load products");
         return res.json();
@@ -44,7 +42,7 @@ export default function Category() {
       {loading && <p className="category-status">Loading products...</p>}
       {error && (
         <p className="category-status error">
-          Could not load products. Make sure the backend is running on port 5000.
+          Could not load products.
         </p>
       )}
 

@@ -2,15 +2,13 @@ import { useEffect, useState } from "react";
 import "./Category.css";
 import ProductCard from "../components/ProductCard";
 
-const API = "http://localhost:5000";
-
 export default function AllProducts() {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch(`${API}/api/products`)
+    fetch("/data/products.json")
       .then((res) => {
         if (!res.ok) throw new Error("Failed to load products");
         return res.json();
@@ -32,7 +30,7 @@ export default function AllProducts() {
       {loading && <p className="category-status">Loading products...</p>}
       {error && (
         <p className="category-status error">
-          Could not load products. Make sure the backend is running on port 5000.
+          Could not load products.
         </p>
       )}
 

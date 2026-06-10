@@ -3,8 +3,6 @@ import { useLocation } from "react-router-dom";
 import "./Category.css";
 import ProductCard from "../components/ProductCard";
 
-const API = "http://localhost:5000";
-
 export default function SearchResults() {
   const location = useLocation();
   const query = new URLSearchParams(location.search).get("q") || "";
@@ -16,13 +14,20 @@ export default function SearchResults() {
     if (!query.trim()) return;
     setLoading(true);
     setError(null);
-    fetch(`${API}/api/search?q=${encodeURIComponent(query)}`)
+    fetch("/data/products.json")
       .then((res) => {
         if (!res.ok) throw new Error("Search failed");
         return res.json();
       })
       .then((data) => {
-        setResults(data);
+        const q = query.toLowerCase().trim();
+        const results = data.filter(
+          (p) =>
+            p.name.toLowerCase().includes(q) ||
+            p.brand.toLowerCase().includes(q) ||
+            p.category.toLowerCase().includes(q)
+        );
+        setResults(results);
         setLoading(false);
       })
       .catch((err) => {
@@ -40,7 +45,7 @@ export default function SearchResults() {
       {loading && <p className="category-status">Searching...</p>}
       {error && (
         <p className="category-status error">
-          Search failed. Make sure the backend is running on port 5000.
+          Search failed.
         </p>
       )}
       {!loading && !error && results.length === 0 && query && (

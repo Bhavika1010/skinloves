@@ -1,26 +1,10 @@
 # SkinLoves
 
-A skincare guidance and e-commerce website built with React + Vite (frontend) and Express (backend).
+A skincare guidance and e-commerce website built with React + Vite.
 
 ---
 
 ## How to Run
-
-You need **two terminals** open at the same time.
-
-### Terminal 1 — Backend
-
-```bash
-cd backend
-npm install
-node server.js
-```
-
-Backend runs at: `http://localhost:5000`
-
----
-
-### Terminal 2 — Frontend
 
 ```bash
 cd frontend
@@ -32,17 +16,25 @@ Frontend runs at: `http://localhost:5173`
 
 ---
 
+## Build for Production
+
+```bash
+cd frontend
+npm run build
+```
+
+Output is generated in `frontend/dist/`, ready to deploy to Vercel, Netlify, or any static host.
+
+---
+
 ## Project Structure
 
 ```
 skinloves/
-├── backend/
-│   ├── data/
-│   │   └── products.json       # All product data
-│   ├── server.js               # Express server
-│   └── package.json
-│
 └── frontend/
+    ├── public/
+    │   └── data/
+    │       └── products.json    # All product data
     ├── src/
     │   ├── assets/
     │   │   ├── hero/            # Hero/banner images
@@ -66,16 +58,6 @@ skinloves/
     ├── vite.config.js
     └── package.json
 ```
-
----
-
-## Backend API
-
-| Endpoint | Description |
-|---|---|
-| `GET /api/products` | All products |
-| `GET /api/products/:category` | Products by category |
-| `GET /api/search?q=query` | Search by name, brand, or category |
 
 ---
 

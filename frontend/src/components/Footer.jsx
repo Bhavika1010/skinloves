@@ -33,7 +33,7 @@ export default function Footer() {
             <li><a href="#">Skin Quiz</a></li>
             <li><a href="#">Routine Builder</a></li>
             <li><a href="#">Ingredient Checker</a></li>
-            <li><a href="https://example.com" target="_blank" rel="noopener noreferrer">Blog / Skincare Tips</a></li>
+            <li><a href="#">Blog</a></li>
           </ul>
         </div>
 

@@ -19,8 +19,7 @@ export default function ProductCard({ product }) {
           alt={product.name}
           onError={(e) => {
             e.target.onerror = null;
-            e.target.src =
-              "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'%3E%3Crect width='200' height='200' fill='%23ffeef2'/%3E%3Ctext x='100' y='110' font-family='sans-serif' font-size='13' fill='%23c2185b' text-anchor='middle'%3ENo Image%3C/text%3E%3C/svg%3E";
+            e.target.src = "/images/placeholder.png";
           }}
         />
         <button

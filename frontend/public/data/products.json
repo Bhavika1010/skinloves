@@ -6,7 +6,7 @@
     "quantity": "150 ml",
     "price": 415,
     "category": "water-cleanser",
-    "image": "https://www.cosrx.com/cdn/shop/products/low-ph-good-morning-gel-cleanser-150ml_800x800.jpg"
+    "image": "https://www.cosrx.com/cdn/shop/files/low-ph-good-morning-gel-cleanser-cosrx-official-1.jpg?v=1768785801"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "quantity": "150 ml",
     "price": 375,
     "category": "water-cleanser",
-    "image": "https://m.media-amazon.com/images/I/41TxT3D+8nL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "quantity": "145 ml",
     "price": 1145,
     "category": "water-cleanser",
-    "image": "https://m.media-amazon.com/images/I/613yGE-OABL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "quantity": "150 ml",
     "price": 764,
     "category": "water-cleanser",
-    "image": "https://m.media-amazon.com/images/I/51Ri3I3VHCL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "quantity": "50 g",
     "price": 950,
     "category": "moisturizer",
-    "image": "https://m.media-amazon.com/images/I/71-KajpKEKL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "quantity": "50 g",
     "price": 399,
     "category": "moisturizer",
-    "image": "https://m.media-amazon.com/images/I/51Ei3IDQF6L._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "quantity": "50 g",
     "price": 299,
     "category": "moisturizer",
-    "image": "https://m.media-amazon.com/images/I/51L-QRpT2DL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "quantity": "50 ml",
     "price": 450,
     "category": "moisturizer",
-    "image": "https://m.media-amazon.com/images/I/41wVUjqm2yL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "quantity": "150 ml",
     "price": 1200,
     "category": "toner",
-    "image": "https://m.media-amazon.com/images/I/41P7WIHF0YL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "quantity": "180 ml",
     "price": 1450,
     "category": "toner",
-    "image": "https://m.media-amazon.com/images/I/41vy5K0KDBL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "quantity": "200 ml",
     "price": 980,
     "category": "toner",
-    "image": "https://m.media-amazon.com/images/I/41H7RcJhFRL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "quantity": "180 ml",
     "price": 1150,
     "category": "toner",
-    "image": "https://m.media-amazon.com/images/I/41RVVoFR5gL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "quantity": "70 ml",
     "price": 2100,
     "category": "essence",
-    "image": "https://m.media-amazon.com/images/I/41H3XRpO10L._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "quantity": "100 ml",
     "price": 1250,
     "category": "essence",
-    "image": "https://m.media-amazon.com/images/I/41o1WG6NBQL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "quantity": "150 ml",
     "price": 2900,
     "category": "essence",
-    "image": "https://m.media-amazon.com/images/I/41I3tcPNaRL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "quantity": "50 ml",
     "price": 1150,
     "category": "essence",
-    "image": "https://m.media-amazon.com/images/I/411mJwnq4jL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "quantity": "30 ml",
     "price": 1250,
     "category": "ampoule",
-    "image": "https://m.media-amazon.com/images/I/41AYs6ELqCL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "quantity": "30 ml",
     "price": 850,
     "category": "ampoule",
-    "image": "https://m.media-amazon.com/images/I/41QnBj5QBCL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "quantity": "80 ml",
     "price": 1499,
     "category": "ampoule",
-    "image": "https://m.media-amazon.com/images/I/41-RV9yvBLL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "quantity": "50 ml",
     "price": 1350,
     "category": "ampoule",
-    "image": "https://m.media-amazon.com/images/I/415z-THNNQL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "quantity": "75 g",
     "price": 550,
     "category": "sunscreen",
-    "image": "https://m.media-amazon.com/images/I/41OYgNJgHgL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "quantity": "50 ml",
     "price": 1999,
     "category": "sunscreen",
-    "image": "https://m.media-amazon.com/images/I/51VBNwFsjQL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "quantity": "50 g",
     "price": 499,
     "category": "sunscreen",
-    "image": "https://m.media-amazon.com/images/I/41+S2tPvpJL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "quantity": "50 g",
     "price": 790,
     "category": "sunscreen",
-    "image": "https://m.media-amazon.com/images/I/41tZ-lh3v+L._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "quantity": "20 g",
     "price": 690,
     "category": "lipbalm",
-    "image": "https://m.media-amazon.com/images/I/41tT2NFBETL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "quantity": "10 g",
     "price": 99,
     "category": "lipbalm",
-    "image": "https://m.media-amazon.com/images/I/51rvdCXJ3BL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "quantity": "12 g",
     "price": 249,
     "category": "lipbalm",
-    "image": "https://m.media-amazon.com/images/I/41J96TFNrQL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "quantity": "5 g",
     "price": 199,
     "category": "lipbalm",
-    "image": "https://m.media-amazon.com/images/I/51l6ixhvvVL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "quantity": "200 ml",
     "price": 850,
     "category": "oilcleanser",
-    "image": "https://m.media-amazon.com/images/I/41xkT9HiEEL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "quantity": "230 ml",
     "price": 899,
     "category": "oilcleanser",
-    "image": "https://m.media-amazon.com/images/I/41a2q5RAbAL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "quantity": "70 ml",
     "price": 650,
     "category": "oilcleanser",
-    "image": "https://m.media-amazon.com/images/I/41U7jZqFWzL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "quantity": "150 ml",
     "price": 1390,
     "category": "oilcleanser",
-    "image": "https://m.media-amazon.com/images/I/41WoFIGFvwL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 37,
@@ -294,7 +294,7 @@
     "quantity": "118 ml",
     "price": 2790,
     "category": "exfoliator",
-    "image": "https://m.media-amazon.com/images/I/41cPLqDqjOL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 38,
@@ -303,7 +303,7 @@
     "quantity": "30 ml",
     "price": 850,
     "category": "exfoliator",
-    "image": "https://m.media-amazon.com/images/I/41NMHTr3jGL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 39,
@@ -312,7 +312,7 @@
     "quantity": "30 ml",
     "price": 699,
     "category": "exfoliator",
-    "image": "https://m.media-amazon.com/images/I/41RUJyX6jCL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 40,
@@ -321,7 +321,7 @@
     "quantity": "100 ml",
     "price": 1499,
     "category": "exfoliator",
-    "image": "https://m.media-amazon.com/images/I/41JnPWaKY3L._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 41,
@@ -330,7 +330,7 @@
     "quantity": "30 ml",
     "price": 649,
     "category": "serum",
-    "image": "https://m.media-amazon.com/images/I/51h4bkOxWoL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 42,
@@ -339,7 +339,7 @@
     "quantity": "30 ml",
     "price": 549,
     "category": "serum",
-    "image": "https://m.media-amazon.com/images/I/41r5q6i3TkL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 43,
@@ -348,7 +348,7 @@
     "quantity": "30 ml",
     "price": 650,
     "category": "serum",
-    "image": "https://m.media-amazon.com/images/I/41M8LmZ5JYL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 44,
@@ -357,7 +357,7 @@
     "quantity": "30 ml",
     "price": 499,
     "category": "serum",
-    "image": "https://m.media-amazon.com/images/I/41dPv1c0e5L._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 45,
@@ -366,7 +366,7 @@
     "quantity": "1 sheet",
     "price": 100,
     "category": "sheetmask",
-    "image": "https://m.media-amazon.com/images/I/41OjT9QMXZL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 46,
@@ -375,7 +375,7 @@
     "quantity": "1 sheet",
     "price": 150,
     "category": "sheetmask",
-    "image": "https://m.media-amazon.com/images/I/41Fh1u8d6YL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 47,
@@ -384,7 +384,7 @@
     "quantity": "1 sheet",
     "price": 99,
     "category": "sheetmask",
-    "image": "https://m.media-amazon.com/images/I/41EOQHQ9vQL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 48,
@@ -393,7 +393,7 @@
     "quantity": "1 sheet",
     "price": 120,
     "category": "sheetmask",
-    "image": "https://m.media-amazon.com/images/I/41fPiuqj5hL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 49,
@@ -402,7 +402,7 @@
     "quantity": "30 ml",
     "price": 275,
     "category": "eyecream",
-    "image": "https://m.media-amazon.com/images/I/41KSPq0LuLL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 50,
@@ -411,7 +411,7 @@
     "quantity": "30 ml",
     "price": 299,
     "category": "eyecream",
-    "image": "https://m.media-amazon.com/images/I/41GjMzSWuGL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 51,
@@ -420,7 +420,7 @@
     "quantity": "30 ml",
     "price": 700,
     "category": "eyecream",
-    "image": "https://m.media-amazon.com/images/I/31zEF3YVKZL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 52,
@@ -429,7 +429,7 @@
     "quantity": "30 ml",
     "price": 350,
     "category": "eyecream",
-    "image": "https://m.media-amazon.com/images/I/41y50dV1bpL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 53,
@@ -438,7 +438,7 @@
     "quantity": "70 ml",
     "price": 1790,
     "category": "sleepmask",
-    "image": "https://m.media-amazon.com/images/I/41LJdLbOtfL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 54,
@@ -447,7 +447,7 @@
     "quantity": "100 ml",
     "price": 850,
     "category": "sleepmask",
-    "image": "https://m.media-amazon.com/images/I/51B1PLyNNML._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 55,
@@ -456,7 +456,7 @@
     "quantity": "80 ml",
     "price": 950,
     "category": "sleepmask",
-    "image": "https://m.media-amazon.com/images/I/41VIK5GKMDL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   },
   {
     "id": 56,
@@ -465,6 +465,6 @@
     "quantity": "60 ml",
     "price": 575,
     "category": "sleepmask",
-    "image": "https://m.media-amazon.com/images/I/41v7BQqFHLL._SX300_SY300_QL70_FMwebp_.jpg"
+    "image": "/images/placeholder.png"
   }
 ]

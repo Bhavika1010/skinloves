@@ -73,12 +73,35 @@
 }
 
 @media (max-width: 600px) {
+  .sl-footer {
+    padding: 30px 20px 20px;
+  }
+
   .sl-footer-container {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    text-align: left;
+  }
+
+  .sl-footer-brand {
+    grid-column: 1 / -1;
     text-align: center;
   }
 
   .sl-footer-logo {
     margin: 0 auto;
+    width: 110px;
+  }
+
+  .sl-footer-tagline {
+    font-size: 0.9rem;
+  }
+
+  .sl-footer-column h3 {
+    font-size: 1rem;
+  }
+
+  .sl-footer-column ul li {
+    font-size: 0.85rem;
   }
 }

@@ -52,6 +52,10 @@
   line-height: 1.6;
 }
 
+.concern-desc-short {
+  display: none;
+}
+
 .concern-subheading {
   font-size: 16px;
   font-weight: 600;
@@ -120,6 +124,14 @@
   .concern-desc {
     font-size: 12px;
     margin: 6px 0 10px;
+  }
+
+  .concern-desc-full {
+    display: none;
+  }
+
+  .concern-desc-short {
+    display: block;
   }
 
   .concern-subheading {

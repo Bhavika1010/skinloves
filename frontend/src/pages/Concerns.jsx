@@ -109,7 +109,10 @@ export default function Concerns() {
         {concerns.map((item, index) => (
           <div className="concern-card" key={index}>
             <h2 className="concern-name">{item.name}</h2>
-            <p className="concern-desc">{item.desc}</p>
+            <p className="concern-desc concern-desc-full">{item.desc}</p>
+            <p className="concern-desc concern-desc-short">
+              {item.desc.split(".")[0]}.
+            </p>
             <h3 className="concern-subheading">Key Ingredients That Help:</h3>
             <ul className="ingredient-list">
               {item.ingredients.map((ing, i) => (

@@ -99,8 +99,13 @@
 }
 
 @media (max-width: 768px) {
+  .brands-page {
+    padding: 25px 15px;
+  }
+
   .brands-layout {
     flex-direction: column;
+    gap: 20px;
   }
 
   .brand-list {
@@ -110,13 +115,39 @@
   .alphabet-sidebar {
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 10px 15px;
     justify-content: center;
     width: 100%;
     position: static;
+    padding-top: 0;
+  }
+
+  .alphabet-item {
+    font-size: 0.95rem;
   }
 
   .brand-search-input {
-    width: 90%;
+    width: 100%;
+    font-size: 0.9rem;
+    padding: 10px 14px;
+  }
+
+  .brand-letter {
+    font-size: 1.3rem;
+  }
+
+  .letter-line {
+    width: 35px;
+    height: 2px;
+    margin-bottom: 10px;
+  }
+
+  .brand-group {
+    margin-bottom: 22px;
+  }
+
+  .brand-name {
+    font-size: 0.95rem;
+    margin-bottom: 8px;
   }
 }

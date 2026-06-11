@@ -89,27 +89,23 @@ function Navbar() {
             </button>
           )}
 
-          {!showSearch && (
-            <>
-              <Link to="/wishlist" className="nav-icon-btn icon-badge-wrap" aria-label="Wishlist">
-                <Heart size={20} strokeWidth={1.8} />
-                {totalWishlistItems > 0 && (
-                  <span className="icon-badge">{totalWishlistItems}</span>
-                )}
-              </Link>
+          <Link to="/wishlist" className="nav-icon-btn icon-badge-wrap" aria-label="Wishlist">
+            <Heart size={20} strokeWidth={1.8} />
+            {totalWishlistItems > 0 && (
+              <span className="icon-badge">{totalWishlistItems}</span>
+            )}
+          </Link>
 
-              <Link to="/cart" className="nav-icon-btn icon-badge-wrap" aria-label="Cart">
-                <ShoppingCart size={20} strokeWidth={1.8} />
-                {totalItems > 0 && (
-                  <span className="icon-badge">{totalItems}</span>
-                )}
-              </Link>
+          <Link to="/cart" className="nav-icon-btn icon-badge-wrap" aria-label="Cart">
+            <ShoppingCart size={20} strokeWidth={1.8} />
+            {totalItems > 0 && (
+              <span className="icon-badge">{totalItems}</span>
+            )}
+          </Link>
 
-              <Link to="/login" className="nav-icon-btn" aria-label="Login">
-                <User size={20} strokeWidth={1.8} />
-              </Link>
-            </>
-          )}
+          <Link to="/login" className="nav-icon-btn" aria-label="Login">
+            <User size={20} strokeWidth={1.8} />
+          </Link>
         </div>
       </nav>
 

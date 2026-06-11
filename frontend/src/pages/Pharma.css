@@ -86,26 +86,55 @@
   background-color: #b71b51;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .pharma-page {
     padding: 25px 15px;
   }
 
   .pharma-title {
-    font-size: 24px;
+    font-size: 22px;
+  }
+
+  .pharma-subtitle {
+    font-size: 13px;
+    margin-bottom: 20px;
   }
 
   .pharma-list {
-    grid-template-columns: 1fr;
-    gap: 16px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
     padding: 0;
   }
 
   .pharma-card {
-    padding: 16px;
+    padding: 12px;
+    border-radius: 12px;
   }
 
   .pharma-name {
-    font-size: 18px;
+    font-size: 15px;
+  }
+
+  .pharma-desc {
+    font-size: 12px;
+    margin: 6px 0 10px;
+  }
+
+  .pharma-subheading {
+    font-size: 12px;
+  }
+
+  .pharma-products {
+    margin-left: 14px;
+    margin-bottom: 12px;
+  }
+
+  .pharma-products li {
+    font-size: 12px;
+  }
+
+  .pharma-btn {
+    font-size: 12px;
+    padding: 8px;
   }
 }

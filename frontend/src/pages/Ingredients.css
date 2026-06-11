@@ -82,26 +82,46 @@
   color: #4a1c2e;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .ingredients-page {
     padding: 25px 15px;
   }
 
   .ingredients-title {
-    font-size: 24px;
+    font-size: 22px;
+  }
+
+  .ingredients-subtitle {
+    font-size: 13px;
   }
 
   .ingredient-groups-grid {
-    grid-template-columns: 1fr;
-    gap: 16px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
     padding: 0;
   }
 
   .ingredient-group {
-    padding: 16px;
+    padding: 12px;
+    border-radius: 12px;
+  }
+
+  .ingredient-group-chip {
+    font-size: 11px;
+    padding: 4px 8px;
   }
 
   .ingredient-group-title {
-    font-size: 18px;
+    font-size: 15px;
+    margin-top: 6px;
+  }
+
+  .ingredient-name {
+    font-size: 12px;
+  }
+
+  .ingredient-card {
+    padding-left: 8px;
+    margin-bottom: 6px;
   }
 }

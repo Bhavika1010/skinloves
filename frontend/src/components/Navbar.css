@@ -161,7 +161,7 @@
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   .navbar-top {
     height: 60px;
     padding: 0 14px;
@@ -178,14 +178,14 @@
   }
 
   .navbar-right {
-    gap: 12px;
+    gap: 10px;
   }
 
   .search-overlay {
-    left: 56px;
-    right: 50px;
+    position: static;
+    flex: 1;
+    margin: 0 10px;
     transform: none;
-    width: auto;
   }
 
   .search-bar {

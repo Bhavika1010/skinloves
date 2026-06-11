@@ -85,3 +85,27 @@
 .pharma-btn:hover {
   background-color: #b71b51;
 }
+
+@media (max-width: 480px) {
+  .pharma-page {
+    padding: 25px 15px;
+  }
+
+  .pharma-title {
+    font-size: 24px;
+  }
+
+  .pharma-list {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0;
+  }
+
+  .pharma-card {
+    padding: 16px;
+  }
+
+  .pharma-name {
+    font-size: 18px;
+  }
+}

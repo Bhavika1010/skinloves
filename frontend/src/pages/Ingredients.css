@@ -81,3 +81,27 @@
   font-weight: 500;
   color: #4a1c2e;
 }
+
+@media (max-width: 480px) {
+  .ingredients-page {
+    padding: 25px 15px;
+  }
+
+  .ingredients-title {
+    font-size: 24px;
+  }
+
+  .ingredient-groups-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0;
+  }
+
+  .ingredient-group {
+    padding: 16px;
+  }
+
+  .ingredient-group-title {
+    font-size: 18px;
+  }
+}

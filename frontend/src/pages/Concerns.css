@@ -85,3 +85,27 @@
 .concern-btn:hover {
   background-color: #b71b51;
 }
+
+@media (max-width: 480px) {
+  .concerns-page {
+    padding: 25px 15px;
+  }
+
+  .concerns-title {
+    font-size: 24px;
+  }
+
+  .concerns-list {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0;
+  }
+
+  .concern-card {
+    padding: 16px;
+  }
+
+  .concern-name {
+    font-size: 18px;
+  }
+}

@@ -53,3 +53,14 @@ html {
   justify-content: center;
   padding: 40px;
 }
+
+@media (max-width: 480px) {
+  body {
+    padding-top: 100px;
+  }
+
+  .sl-product-grid {
+    padding: 20px;
+    gap: 15px;
+  }
+}

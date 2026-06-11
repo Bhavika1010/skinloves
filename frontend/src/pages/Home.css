@@ -70,3 +70,22 @@
   background: #d63384;
   transform: scale(1.2);
 }
+
+@media (max-width: 480px) {
+  .hero-container {
+    height: 220px;
+  }
+
+  .arrow {
+    font-size: 1.4rem;
+    padding: 2px 8px;
+  }
+
+  .arrow.left {
+    left: 8px;
+  }
+
+  .arrow.right {
+    right: 8px;
+  }
+}

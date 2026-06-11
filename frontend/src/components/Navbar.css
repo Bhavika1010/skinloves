@@ -81,7 +81,6 @@
   display: flex;
   align-items: center;
   gap: 18px;
-  margin-right: 20px;
 }
 
 .nav-icon-btn {
@@ -149,6 +148,8 @@
 @media (max-width: 768px) {
   .bottom-links {
     gap: 18px;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
   .bottom-links a {
@@ -157,5 +158,46 @@
 
   .search-bar {
     width: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar-top {
+    height: 60px;
+    padding: 0 14px;
+  }
+
+  .navbar-bottom {
+    top: 60px;
+  }
+
+  .logo {
+    height: 38px;
+    margin-left: 0;
+    margin-right: 4px;
+  }
+
+  .navbar-right {
+    gap: 12px;
+  }
+
+  .search-overlay {
+    left: 56px;
+    right: 50px;
+    transform: none;
+    width: auto;
+  }
+
+  .search-bar {
+    width: 100%;
+  }
+
+  .bottom-links {
+    gap: 10px 16px;
+    padding: 0 10px;
+  }
+
+  .bottom-links a {
+    font-size: 0.85rem;
   }
 }

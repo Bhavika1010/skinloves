@@ -14,11 +14,4 @@ npm run dev
 
 Then open `http://localhost:5173`.
 
-## Building for deployment
 
-```bash
-cd frontend
-npm run build
-```
-
-This creates a `dist/` folder that can be deployed to Vercel, Netlify, or any static hosting service.
